@@ -28,6 +28,7 @@ header {
 .logo {
     height: 70px;
     margin-left: 10px;
+    box-shadow: none;
 }
 
 header > a {
